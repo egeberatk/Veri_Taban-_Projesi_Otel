@@ -1,0 +1,8 @@
+Otel Rezervasyon Sistemi
+Veritabani Tasarimi
+
+Tablolar:
+-Misafir
+-Oda
+-Rezervasyon
+-Odeme
